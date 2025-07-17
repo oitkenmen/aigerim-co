@@ -1,0 +1,3 @@
+Sitemap: https://aigerim.co/sitemap.xml
+User-agent: *
+Disallow:

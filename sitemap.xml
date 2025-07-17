@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aigerim.co</loc>
+    <image:image><image:loc>https://aigerim.co/favicon.png</image:loc></image:image>
+    <image:image><image:loc>https://aigerim.co/img/apple-touch-icon.png</image:loc></image:image>
+    <image:image><image:loc>https://aigerim.co/img/og.png</image:loc></image:image>
+    <image:image><image:loc>https://aigerim.co/img/web-app-manifest-192x192.png</image:loc></image:image>
+    <image:image><image:loc>https://aigerim.co/img/web-app-manifest-512x512.png</image:loc></image:image>
+  </url>
+</urlset>
