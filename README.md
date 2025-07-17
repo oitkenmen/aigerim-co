@@ -1,2 +1,1 @@
-# aigerim-co
-A personal landing page for Aigerim Kabysheva
+### A personal landing page for Aigerim
